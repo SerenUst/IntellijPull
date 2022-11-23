@@ -4,4 +4,3 @@ public class IlkGun {
         System.out.println("GitGithub ilk deneme");
     }
 }
-gitgit
